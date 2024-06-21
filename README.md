@@ -11,7 +11,7 @@ Welcome to the To-Do List App! This simple web application allows you to manage 
 
 ## Screenshots
 ![Uploading Screenshot 2024-06-21 at 14.47.52.png…]()
-![Uploading Screenshot 2024-06-21 at 14.51.06.png…]()
+
 
 
 
