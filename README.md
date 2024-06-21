@@ -10,7 +10,9 @@ Welcome to the To-Do List App! This simple web application allows you to manage 
 - **Persistent Data**: Your tasks are saved in local storage, so they remain even after you close the browser.
 
 ## Screenshots
-![Uploading Screenshot 2024-06-21 at 14.47.52.png…]()
+![Screenshot 2024-06-21 at 14 51 06](https://github.com/JuniorSillo/TO-DO-LIST/assets/123242158/070caebe-376e-40d7-9877-0cb09e43ade0)
+
+
 
 
 
